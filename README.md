@@ -1,12 +1,11 @@
-# 👋 Cześć, jestem Michał!
+#**Full-Stack Developer** | Java Spring Boot • React • Node.js
 
-**Full-Stack Developer** | Java Spring Boot • React • Node.js
-
-💼 Pracuję w Interdyscyplinarnym Centrum Danych o Zdrowiu, UJCM  
+💼 Hired at Interdyscyplinare Centrum Danych o Zdrowiu, UJCM  
 📍 Kraków, Poland  
-🎓 Student kierunku IT
+🎓 4rd year IT student at Wyższa Szkoła Zarządzania i Bankowości w Krakowie
 
 ## [🚀 My portfolio](https://mromasze.github.io)
+## [📘 My linkedin](https://www.linkedin.com/in/micha%C5%82-romaszewski-bb9b94275)
 
 ## 💻 Tech Stack
 
@@ -17,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📫 Kontakt
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.romaszewski@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mromasze)
