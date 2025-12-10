@@ -1,4 +1,4 @@
-#**Full-Stack Developer** | Java Spring Boot • React • Node.js
+# **Full-Stack Developer** | Java Spring Boot • React • Node.js
 
 💼 Hired at Interdyscyplinare Centrum Danych o Zdrowiu, UJCM  
 📍 Kraków, Poland  
