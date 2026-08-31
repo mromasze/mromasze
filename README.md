@@ -1,9 +1,12 @@
 # Software Engineer | Java & Spring Boot • Big Data • Backend Development
 
 💼 Technical and Scientific Specialist / Programmer at the Jagiellonian University Medical College (UJCM)  
-🎓 M.Sc. student in Computer Science — specialization: Information Technologies in Big Data, Wyższa Szkoła Zarządzania i Bankowości w Krakowie
-🎓 B.Eng. in Computer Science — Object-Oriented Programming, Wyższa Szkoła Zarządzania i Bankowości w Krakowie
+🎓 M.Sc. student in Computer Science — specialization: Information Technologies in Big Data, WSZiB in Kraków
+🎓 B.Eng. in Computer Science — Object-Oriented Programming, WSZiB in Kraków
 📍 Kraków, Poland  
+
+- LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
+- Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
 
 🚀 Backend Developer at **Triumpho** — a mobile application that helps gamers find people to play with.  
 I am responsible for designing and developing the backend using **Java** and **Spring Boot**.
